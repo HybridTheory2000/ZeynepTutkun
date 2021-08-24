@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HybridTheory2000
+- 👋 Hi, I’m @ZeynepTutkun
 - 👀 I’m interested in space
 - 🌱 I’m currently learning rocket flight computer software, drone, radiotelescope
 - 💞️ I’m looking to collaborate on space science
